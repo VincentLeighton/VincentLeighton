@@ -1,5 +1,6 @@
 ## Hello World 👋
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=VincentLeighton&show_icons=true&hide=contribs)](https://github-readme-stats.vercel.app/api?username=VincentLeighton&show_icons=true&hide=contribs)
 <!--
 **VincentLeighton/VincentLeighton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
